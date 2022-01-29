@@ -1,4 +1,4 @@
-# beba-agua
+# Beba água
 Adicione copos de água ao beber.
 
 <a href="https://mssdesign.github.io/beba-agua/" target="_blank">Clique aqui para ver o site.</a>
